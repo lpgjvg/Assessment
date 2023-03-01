@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Assessment__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Assessment.Abilities__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Assessment__c-Assessment Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Create_Assessment_Record</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>Contact-Contact Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Contact.Create_Assessment</members>
+        <name>quickActions</name>
+    </types>
+    
+    <version>56.0</version>
+</Package>
